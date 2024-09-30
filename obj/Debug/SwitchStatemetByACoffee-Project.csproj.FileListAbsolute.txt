@@ -1,0 +1,7 @@
+C:\Users\sonuh\source\repos\SwitchStatemetByACoffee-Project\SwitchStatemetByACoffee-Project\bin\Debug\SwitchStatemetByACoffee-Project.exe.config
+C:\Users\sonuh\source\repos\SwitchStatemetByACoffee-Project\SwitchStatemetByACoffee-Project\bin\Debug\SwitchStatemetByACoffee-Project.exe
+C:\Users\sonuh\source\repos\SwitchStatemetByACoffee-Project\SwitchStatemetByACoffee-Project\bin\Debug\SwitchStatemetByACoffee-Project.pdb
+C:\Users\sonuh\source\repos\SwitchStatemetByACoffee-Project\SwitchStatemetByACoffee-Project\obj\Debug\SwitchStatemetByACoffee-Project.csproj.AssemblyReference.cache
+C:\Users\sonuh\source\repos\SwitchStatemetByACoffee-Project\SwitchStatemetByACoffee-Project\obj\Debug\SwitchStatemetByACoffee-Project.csproj.CoreCompileInputs.cache
+C:\Users\sonuh\source\repos\SwitchStatemetByACoffee-Project\SwitchStatemetByACoffee-Project\obj\Debug\SwitchStatemetByACoffee-Project.exe
+C:\Users\sonuh\source\repos\SwitchStatemetByACoffee-Project\SwitchStatemetByACoffee-Project\obj\Debug\SwitchStatemetByACoffee-Project.pdb
